@@ -2,7 +2,7 @@
 
 <br/>
 
-## About 
+## About
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
 <p>These technologies are used to build this website:</p>
 <ul>
